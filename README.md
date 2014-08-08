@@ -1,4 +1,6 @@
-# autojs-contrib-mouse [![Build Status](https://secure.travis-ci.org/autojs/autojs-contrib-mouse.png?branch=master)](http://travis-ci.org/autojs/autojs-contrib-mouse)
+# autojs-contrib-mouse
+[![Build Status](https://secure.travis-ci.org/autojs/autojs-contrib-mouse.png?branch=master)](http://travis-ci.org/autojs/autojs-contrib-mouse)
+[![Build status](https://ci.appveyor.com/api/projects/status/nw58g7t6ows6aua8)](https://ci.appveyor.com/project/EloB/autojs-contrib-mouse)
 
 > A mouse emulator
 
