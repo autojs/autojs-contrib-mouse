@@ -1,0 +1,39 @@
+{
+  "name": "autojs-contrib-mouse",
+  "version": "0.0.0",
+  "main": "lib/autojs-contrib-mouse.js",
+  "description": "A mouse emulator",
+  "homepage": "https://github.com/autojs/autojs-contrib-mouse",
+  "bugs": "https://github.com/autojs/autojs-contrib-mouse/issues",
+  "author": {
+    "name": "EloB",
+    "email": "olle.broms@ewebbyran.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autojs/autojs-contrib-mouse"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "autojs-contrib-mouse",
+    "autojs",
+    "contrib",
+    "mouse",
+    "emulator"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0",
+    "grunt-mocha-test": "^0.11.0",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
