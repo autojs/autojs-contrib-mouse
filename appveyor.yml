@@ -17,7 +17,6 @@ install:
   - npm install -g grunt-cli
 
 test_script:
-  # Output useful info for debugging.
   - node --version
   - npm --version
   - ps: npm test
@@ -25,5 +24,4 @@ test_script:
 
 build: off
 
-# Set build version format here instead of in the admin panel.
 version: "{build}"
